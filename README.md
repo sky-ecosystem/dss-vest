@@ -182,3 +182,19 @@ Allows governance to schedule a point in the future to end the vest. Used for pl
   ```
   make certora-transferrable
   ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO DSS Vest](https://www.chainsecurity.com/security-audit/makerdao-dss-vest/) | 2024-12-12 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
+
+### Other reports
+
+The following reports are not available on an auditor portfolio page and are kept in this repository:
+
+- [ABDK (ABDK_DSSVest_Audit5a.pdf)](./audits/ABDK_DSSVest_Audit5a.pdf)
